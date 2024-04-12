@@ -17,7 +17,7 @@ const CartItem = ({item}) => {
 
   return (
 
-      <div className="flex justify-center items-center gap-x-8 py-4 h-[35vh] border-b-2 border-black">
+      <div className="flex justify-center items-center gap-x-8 py-4 min-h-[35vh] border-b-2 border-black">
 
         <div className="h-full w-2/3">
 
